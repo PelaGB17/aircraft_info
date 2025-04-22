@@ -1,0 +1,81 @@
+EVALUACIÓN DEL ÁRBOL DE DECISIÓN
+================================
+
+Precisión global: 0.7658
+
+Reporte de clasificación:
+
+Clase: priority0
+  Precisión:    1.0000
+  Recall:       0.9932
+  F1-score:     0.9966
+  Muestras:     592.0
+
+Clase: priority1
+  Precisión:    0.2000
+  Recall:       1.0000
+  F1-score:     0.3333
+  Muestras:     1.0
+
+Clase: priority2
+  Precisión:    0.0714
+  Recall:       1.0000
+  F1-score:     0.1333
+  Muestras:     2.0
+
+Clase: priority3
+  Precisión:    0.4797
+  Recall:       0.8456
+  F1-score:     0.6121
+  Muestras:     2357.0
+
+Clase: priority4
+  Precisión:    0.9561
+  Recall:       0.7144
+  F1-score:     0.8178
+  Muestras:     10161.0
+
+Clase: priority5
+  Precisión:    0.5351
+  Recall:       0.9071
+  F1-score:     0.6731
+  Muestras:     958.0
+
+Clase: priority6
+  Precisión:    0.7406
+  Recall:       0.9519
+  F1-score:     0.8331
+  Muestras:     270.0
+
+Clase: priority7
+  Precisión:    0.6571
+  Recall:       0.6970
+  F1-score:     0.6765
+  Muestras:     33.0
+
+Clase: priority8
+  Precisión:    0.7273
+  Recall:       0.7619
+  F1-score:     0.7442
+  Muestras:     21.0
+
+Clase: priority9
+  Precisión:    0.9556
+  Recall:       0.9451
+  F1-score:     0.9503
+  Muestras:     91.0
+
+
+Distribución de Prioridades:
+===========================
+
+priority4: 7592 (52.4%)
+priority3: 4155 (28.7%)
+priority5: 1624 (11.2%)
+priority0: 588 (4.1%)
+priority6: 347 (2.4%)
+priority9: 90 (0.6%)
+priority7: 35 (0.2%)
+priority2: 28 (0.2%)
+priority8: 22 (0.2%)
+priority1: 5 (0.0%)

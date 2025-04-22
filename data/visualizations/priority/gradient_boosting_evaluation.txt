@@ -1,0 +1,81 @@
+EVALUACIÓN DEL GRADIENT BOOSTING
+================================
+
+Precisión global: 0.9738
+
+Reporte de clasificación:
+
+Clase: priority0
+  Precisión:    0.9189
+  Recall:       0.9764
+  F1-score:     0.9468
+  Muestras:     592.0
+
+Clase: priority1
+  Precisión:    0.0714
+  Recall:       1.0000
+  F1-score:     0.1333
+  Muestras:     1.0
+
+Clase: priority2
+  Precisión:    0.0263
+  Recall:       1.0000
+  F1-score:     0.0513
+  Muestras:     2.0
+
+Clase: priority3
+  Precisión:    0.9863
+  Recall:       0.9504
+  F1-score:     0.9680
+  Muestras:     2357.0
+
+Clase: priority4
+  Precisión:    0.9907
+  Recall:       0.9904
+  F1-score:     0.9906
+  Muestras:     10161.0
+
+Clase: priority5
+  Precisión:    0.9443
+  Recall:       0.9551
+  F1-score:     0.9497
+  Muestras:     958.0
+
+Clase: priority6
+  Precisión:    0.9277
+  Recall:       0.8556
+  F1-score:     0.8902
+  Muestras:     270.0
+
+Clase: priority7
+  Precisión:    0.4000
+  Recall:       0.4848
+  F1-score:     0.4384
+  Muestras:     33.0
+
+Clase: priority8
+  Precisión:    0.3529
+  Recall:       0.2857
+  F1-score:     0.3158
+  Muestras:     21.0
+
+Clase: priority9
+  Precisión:    0.8438
+  Recall:       0.5934
+  F1-score:     0.6968
+  Muestras:     91.0
+
+
+Distribución de Prioridades:
+===========================
+
+priority4: 10157 (70.1%)
+priority3: 2271 (15.7%)
+priority5: 969 (6.7%)
+priority0: 629 (4.3%)
+priority6: 249 (1.7%)
+priority2: 76 (0.5%)
+priority9: 64 (0.4%)
+priority7: 40 (0.3%)
+priority8: 17 (0.1%)
+priority1: 14 (0.1%)
